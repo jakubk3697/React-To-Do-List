@@ -1,0 +1,13 @@
+.title {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 50px;
+    letter-spacing: 4px;
+    color: rgb(0, 3, 0);
+}
+
+.form {
+    padding: 10px;
+}

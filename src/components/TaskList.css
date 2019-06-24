@@ -1,0 +1,30 @@
+div {
+    padding: 4px;
+}
+
+span {
+    font-size: 14px;
+    color: rgb(241, 0, 0);
+    letter-spacing: 1px;
+}
+
+.active {
+    color: white;
+    line-height: 2;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.done {
+    color: rgb(224, 224, 224);
+}
+
+.done span {
+    text-decoration: underline;
+    display: block;
+    margin: 20px 0;
+}
+
+.done li {
+    text-decoration: line-through;
+    list-style-type: none;
+}
